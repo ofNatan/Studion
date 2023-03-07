@@ -1,0 +1,23 @@
+{
+  "name": "imagine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofNatan/Studion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ofNatan/Studion/issues"
+  },
+  "homepage": "https://github.com/ofNatan/Studion#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
